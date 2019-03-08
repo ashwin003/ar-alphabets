@@ -1,0 +1,288 @@
+[
+    {
+        "character": "A",
+        "text": "",
+        "model": "assets/A/Apple.gltf",
+        "obj": "Apple",
+        "user": "https://poly.google.com/user/4aEd8rQgKu2",
+        "properties": {
+            "scale": "0.01 0.01 0.01",
+            "rotation": "-90 0 0"
+        }
+    },
+    {
+        "character": "B",
+        "text": "",
+        "model": "assets/B/Tugboat.gltf",
+        "obj": "Boat",
+        "user": "https://poly.google.com/user/4aEd8rQgKu2",
+        "properties": {
+            "scale": "0.2 0.2 0.2",
+            "rotation": "-90 0 0"
+        }
+    },
+    {
+        "character": "C",
+        "text": "",
+        "model": "assets/C/Cake_01.gltf",
+        "obj": "Cake",
+        "user": "https://poly.google.com/user/4aEd8rQgKu2",
+        "properties": {
+            "scale": "0.1 0.1 0.1",
+            "rotation": "-90 0 0"
+        }
+    },
+    {
+        "character": "D",
+        "text": "",
+        "model": "assets/D/Dolphin.gltf",
+        "obj": "Dolphin",
+        "user": "https://poly.google.com/user/4aEd8rQgKu2",
+        "properties": {
+            "scale": "0.1 0.1 0.1",
+            "rotation": "90 0 0"
+        }
+    },
+    {
+        "character": "E",
+        "text": "",
+        "model": "assets/E/UncrackedEgg_239.gltf",
+        "obj": "Egg",
+        "user": "https://poly.google.com/user/4aEd8rQgKu2",
+        "properties": {
+            "scale": "0.03 0.03 0.03",
+            "rotation": "-90 0 0"
+        }
+    },
+    {
+        "character": "F",
+        "text": "",
+        "model": "assets/F/Mesh_Frog.gltf",
+        "obj": "Frog",
+        "user": "https://poly.google.com/user/4aEd8rQgKu2",
+        "properties": {
+            "scale": "0.05 0.05 0.05",
+            "rotation": "-90 0 0"
+        }
+    },
+    {
+        "character": "G",
+        "text": "",
+        "model": "assets/G/Grapes_01.gltf",
+        "obj": "Grape",
+        "user": "https://poly.google.com/user/4aEd8rQgKu2",
+        "properties": {
+            "scale": "0.1 0.1 0.1",
+            "rotation": "-90 0 0"
+        }
+    },
+    {
+        "character": "H",
+        "text": "",
+        "model": "assets/H/HouseWithDriveway.gltf",
+        "obj": "House",
+        "user": "https://poly.google.com/user/4aEd8rQgKu2",
+        "properties": {
+            "scale": "0.1 0.1 0.1",
+            "rotation": "-90 0 0"
+        }
+    },
+    {
+        "character": "I",
+        "text": "",
+        "model": "assets/I/mobile-phone.gltf",
+        "obj": "IPhone",
+        "user": "https://poly.google.com/user/8AeD2nMKdb0",
+        "properties": {
+            "scale": "0.05 0.05 0.05",
+            "rotation": "-90 0 0"
+        }
+    },
+    {
+        "character": "J",
+        "text": "",
+        "model": "assets/J/Jet_01.gltf",
+        "obj": "Jet",
+        "user": "https://poly.google.com/user/4aEd8rQgKu2",
+        "properties": {
+            "scale": "0.2 0.2 0.2",
+            "rotation": "-90 0 0"
+        }
+    },
+    {
+        "character": "K",
+        "text": "",
+        "model": "assets/K/Key_01.gltf",
+        "obj": "Key",
+        "user": "https://poly.google.com/user/4aEd8rQgKu2",
+        "properties": {
+            "scale": "0.01 0.01 0.01",
+            "rotation": "-90 0 0"
+        }
+    },
+    {
+        "character": "L",
+        "text": "",
+        "model": "assets/L/Standing_lamp_01.gltf",
+        "obj": "Lamp",
+        "user": "https://poly.google.com/user/4aEd8rQgKu2",
+        "properties": {
+            "scale": "0.5 0.5 0.5",
+            "rotation": "-90 0 0"
+        }
+    },
+    {
+        "character": "M",
+        "text": "",
+        "model": "assets/M/Mailbox.gltf",
+        "obj": "Mailbox",
+        "user": "https://poly.google.com/user/4aEd8rQgKu2",
+        "properties": {
+            "scale": "0.5 0.5 0.5",
+            "rotation": "-90 0 0"
+        }
+    },
+    {
+        "character": "N",
+        "text": "",
+        "model": "assets/N/Fishing_net.gltf",
+        "obj": "Net",
+        "user": "https://poly.google.com/user/4aEd8rQgKu2",
+        "properties": {
+            "scale": "0.1 0.1 0.1",
+            "rotation": "-90 0 0"
+        }
+    },
+    {
+        "character": "O",
+        "text": "",
+        "model": "assets/O/model.gltf",
+        "obj": "Octopus",
+        "user": "https://poly.google.com/user/fEt-wx0PeoM",
+        "properties": {
+            "scale": "1 1 1",
+            "rotation": "-90 0 0"
+        }
+    },
+    {
+        "character": "P",
+        "text": "",
+        "model": "assets/P/scene.gltf",
+        "obj": "Panda",
+        "user": "https://sketchfab.com/gentryhsEAST",
+        "properties": {
+            "scale": "0.3 0.3 0.3",
+            "rotation": "-90 0 0"
+        }
+    },
+    {
+        "character": "Q",
+        "text": "",
+        "model": "assets/Q/scene.gltf",
+        "obj": "Question Mark",
+        "user": "https://sketchfab.com/paulyanez",
+        "properties": {
+            "scale": "0.001 0.001 0.001",
+            "rotation": "-90 0 0"
+        }
+    },
+    {
+        "character": "R",
+        "text": "",
+        "model": "assets/R/Rocket_Ship_01.gltf",
+        "obj": "Rocket",
+        "user": "https://poly.google.com/user/4aEd8rQgKu2",
+        "properties": {
+            "scale": "0.3 0.3 0.3",
+            "rotation": "-90 0 0"
+        }
+    },
+    {
+        "character": "S",
+        "text": "",
+        "model": "assets/S/SandCastle.gltf",
+        "obj": "Sandcastle",
+        "user": "https://poly.google.com/user/4aEd8rQgKu2",
+        "properties": {
+            "scale": "0.3 0.3 0.3",
+            "rotation": "-90 0 0"
+        }
+    },
+    {
+        "character": "T",
+        "text": "",
+        "model": "assets/T/scene.gltf",
+        "obj": "TARDIS",
+        "user": "https://sketchfab.com/andrewsha",
+        "properties": {
+            "scale": "0.5 0.5 0.5",
+            "rotation": "-90 0 0"
+        }
+    },
+    {
+        "character": "U",
+        "text": "",
+        "model": "assets/U/scene.gltf",
+        "obj": "Ukulele",
+        "user": "https://sketchfab.com/Maxider",
+        "properties": {
+            "scale": "2 2 2",
+            "rotation": "-90 0 0"
+        }
+    },
+    {
+        "character": "V",
+        "text": "",
+        "model": "assets/V/Orchid_422.gltf",
+        "obj": "Vase",
+        "user": "https://poly.google.com/user/4aEd8rQgKu2",
+        "properties": {
+            "scale": "0.03 0.03 0.03",
+            "rotation": "-90 0 0"
+        }
+    },
+    {
+        "character": "W",
+        "text": "",
+        "model": "assets/W/PUSHILIN_windmill.gltf",
+        "obj": "Windmill",
+        "user": "https://poly.google.com/user/4aEd8rQgKu2",
+        "properties": {
+            "scale": "2 2 2",
+            "rotation": "-90 0 0"
+        }
+    },
+    {
+        "character": "X",
+        "text": "",
+        "model": "assets/X/scene.gltf",
+        "obj": "X Wing Fighter",
+        "user": "https://sketchfab.com/DanielAndersson",
+        "properties": {
+            "scale": "5 5 5",
+            "rotation": "-90 0 0"
+        }
+    },
+    {
+        "character": "Y",
+        "text": "",
+        "model": "assets/Y/scene.gltf",
+        "obj": "Yatch",
+        "user": "https://sketchfab.com/kris.dpd",
+        "properties": {
+            "scale": "0.1 0.1 0.1",
+            "rotation": "-90 0 0"
+        }
+    },
+    {
+        "character": "Z",
+        "text": "",
+        "model": "assets/Z/blimp.gltf",
+        "obj": "Zeppelin",
+        "user": "https://poly.google.com/user/4aEd8rQgKu2",
+        "properties": {
+            "scale": "0.5 0.5 0.5",
+            "rotation": "-90 0 0"
+        }
+    }
+]
